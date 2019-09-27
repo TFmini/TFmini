@@ -18,6 +18,7 @@ TFmini is a mini LiDAR module. It is mainly capable of the function of real-time
 ## 1.2 Principle of Distance Measurement
 
 TFmini is based on TOF, namely, Time of Flight principle. To be specific, the product transmits modulation wave of near infrared ray on a periodic basis, which wave will reflect after contacting object. The product obtains time of flight by measuring round-trip phase difference and then calculates relative range between the product and the detection object, as shown in Figure1.
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019092709223170.png)
 
 ## 1.3 Key Characteristic Parameters
